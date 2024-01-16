@@ -1,3 +1,2 @@
 # Portfolio
-## Yandex Practicum
-### 13 проектов
+## Проекты Yandex Practicum
