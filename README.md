@@ -1,2 +1,5 @@
 # Portfolio
-## Проекты Yandex Practicum
+## Yandex Practicum Projects
+|#    | Name         | Description  | Stack |
+|---- |------------- |---------------| -------------|
+|                    |               |              |
